@@ -9,3 +9,7 @@ I love **Badminton** because it is both **fast-paced** and **strategic**.It need
 1. **Player X** : The best player in badminton.
 2. **Player Y** : The intermediate player in badminton.
 3. **Player Z** : The beginner player in badminton.
+
+## Places To Play Badminton
+1. **College Recreation Center** : Student recreation center is the good place to play badminton.
+2. **Badminton Club** : Club court is also a good place play.
