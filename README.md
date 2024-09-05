@@ -26,4 +26,4 @@ Here are 4 restaurant and food vendor which i recommend in my opinion. Each of t
 |Dhaba By Foresta       | This restaurent provides the best starter | Gurugram, India             |
 |Rajinder The Dhaba     | This restaurent has the best main course dishes| Delhi, India           |
 |    32 Avenue          | This place has the best fine dine ambience with amazing Italian Food | Gurugram, India  |
-| Select City Restaurent| This Restaurent has the best paneer dishes | Delhi, India               |
+| Select City Restaurant| This Restaurent has the best paneer dishes | Delhi, India               |
