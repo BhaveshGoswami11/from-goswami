@@ -27,3 +27,11 @@ Here are 4 restaurant and food vendor which i recommend in my opinion. Each of t
 |Rajinder The Dhaba     | This restaurent has the best main course dishes| Delhi, India           |
 |    32 Avenue          | This place has the best fine dine ambience with amazing Italian Food | Gurugram, India  |
 | Select City Restaurant| This Restaurent has the best paneer dishes | Delhi, India               |
+
+---
+
+## Favorite Quotes
+> "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do." *-Steve Jobs*
+
+> "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man." *-George Bernard Shaw*
+
