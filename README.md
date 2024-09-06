@@ -21,12 +21,12 @@ Check out [My Favorite Dish : Chole Bhature](https://github.com/BhaveshGoswami11
 ## Recommend Restaurant In My Opinion
 Here are 4 restaurant and food vendor which i recommend in my opinion. Each of the Restaurent are known for their unique dishes with amazing hospitality. 
 
-| **Restaurant Name**   |  **Reason For The Recommendation**   |  **Location Of The Restaurent**  |
+| **Restaurant Name**   |  **Reason For The Recommendation**   |  **Location Of The Restaurant**  |
 |-----------------------|--------------------------------------|----------------------------------|
-|Dhaba By Foresta       | This restaurent provides the best starter | Gurugram, India             |
-|Rajinder The Dhaba     | This restaurent has the best main course dishes| Delhi, India           |
+|Dhaba By Foresta       | This restaurant provides the best starter | Gurugram, India             |
+|Rajinder The Dhaba     | This restaurant has the best main course dishes| Delhi, India           |
 |    32 Avenue          | This place has the best fine dine ambience with amazing Italian Food | Gurugram, India  |
-| Select City Restaurant| This Restaurent has the best paneer dishes | Delhi, India               |
+| Select City Restaurant| This Restaurant has the best paneer dishes | Delhi, India               |
 
 ---
 
