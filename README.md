@@ -35,3 +35,19 @@ Here are 4 restaurant and food vendor which i recommend in my opinion. Each of t
 
 > "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man." *-George Bernard Shaw*
 
+---
+
+## CODE FENCING
+
+**Description Of The snippet-How to check if a file exists in Python**
+In Python, you can check if a file exists using the os.path.exists() function from the os module or the pathlib.Path.exists() method. Both methods return True if the file exists and False otherwise. 
+~~~
+from os import path
+
+def check_for_file(file_name):
+	print("File exists: ", path.exists(file_name))
+
+~~~
+***Here is the Quick Link for this Snippet Code*** <https://code.pieces.app/collections/python>
+
+
