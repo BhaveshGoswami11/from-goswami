@@ -6,9 +6,9 @@ I love **Badminton** because it is both **fast-paced** and **strategic**.It need
 
 ---
 ## Top Player In Badminton
-1. **Player X** : The best player in badminton.
-2. **Player Y** : The intermediate player in badminton.
-3. **Player Z** : The beginner player in badminton.
+1. **John Doe** : Known for his powerful smashes and lightning-fast reflexes, John has consistently dominated the court and led his team to victory.
+2. **Jane Smith** :With her strategic play and exceptional precision, Jane is a master of control and placement, making her a formidable opponent.
+3. **Emily Davis** : Emily's defensive skills are unmatched, and her ability to turn defense into offense has earned her a reputation as one of the toughest players to beat.
 
 ## Places To Play Badminton
 * **College Recreation Center** : Student recreation center is the good place to play badminton.
